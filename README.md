@@ -1,6 +1,7 @@
 # 🐍**DISCIPLINA: LINGUAGEM DE PROGRAMAÇÃO**
 
 * Este repositório tem o objetivo de hospedar os exercícios desenvolvidos em aula, sendo a linguagem Python escolhida para estudo.
+* Dia da aula: Quinta-feira.
 
 ## 🗂️ Divisão do Conteúdo dos exercícios
 
