@@ -13,7 +13,7 @@ Para começar, você precisa de dois programas instalados no seu Windows:
    * [Baixe aqui](https://git-scm.com/)
    * *Dica:* Na instalação, pode clicar em "Next" em todas as opções padrão.
 
-## 💡 Entenda a Diferença: Git versus GitHub
+## 💡 Entenda a Diferença: Git vs GitHub
 
 Para não se confundir:
 * **Git (Download):** É o software que instalamos no Windows. Ele controla as versões dos seus arquivos localmente.
