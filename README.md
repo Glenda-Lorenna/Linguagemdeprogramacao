@@ -17,7 +17,7 @@ Aqui estão os conteúdos divididos por categorias:
 
 * 🔢 **[Algoritmos](./atividades-algoritmo/):** Exercícios iniciais de lógica e sequência lógica.
 * 🐍 **[Fundamentos em Python](./atividades-basicas-python/):** Scripts básicos e prática de sintaxe.
-* ⚙️ **[Gerenciamento de Sistemas](./atividades-gerenciamento-sistema-exercicios/):** Atividades focadas em lógica de sistemas. 
+* ⚙️ **[Gerenciamento de Sistemas](./atividades-gerenciamento-sistema-operacional):** Atividades focadas em lógica de sistemas. 
 
 ## 📖 Material de Apoio
 
